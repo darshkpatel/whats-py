@@ -1,6 +1,18 @@
 # whats-py 
 It's a minimal python library to use whatsappweb in your python scripts
 
+# Installation
+
+* Using PyPi
+`pip install whats-py`
+
+* From Github
+```
+git clone https://github.com/darshkpatel/whats-py.git
+cd whats-py
+python3 setup.py
+```
+
 # Usage
 
 ### Example
