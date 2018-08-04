@@ -33,7 +33,7 @@ webLogout()
 
 * `checkOnline(contact)` 
    
-    This dunction takes one argument ie. Contact . Contact should be the phone number of the person wihout the country code in the format XXXXXXXXXX . Function returns True if the contact is online False otherwise
+    This dunction takes one argument ie. Contact . Contact should be the phone number of the person wihout the country code in the format XXXXXXXXXX (Might work with contact name, but only if it's the first search result) . Function returns True if the contact is online False otherwise
     
 *  `sendText(contact, text, times)`
  
