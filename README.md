@@ -1,4 +1,4 @@
-# whats-py 
+# whats-py [ Use [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) instead]
 It's a minimal python library to use whatsappweb in your python scripts
 
 # Installation
